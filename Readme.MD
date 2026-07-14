@@ -1,27 +1,72 @@
-🚀 Databricks Training Journey
+# 🚀 Databricks Training Journey
 
-Welcome to my Databricks Training repository! 👋
+Welcome to my **Databricks Training** repository! 👋
 
-This repository documents my learning journey as a Data Engineering Trainee. It contains my practice notebooks, notes, exercises, and hands-on examples completed during my Databricks training.
+This repository documents my learning journey as a **Data Engineering Trainee**. Here, I upload my practice notebooks, notes, assignments, and hands-on exercises completed during my Databricks training.
 
-📚 What I'm Learning
+## 📚 What I'm Learning
 
-✨ PySpark – DataFrames, transformations, actions, Spark SQL, and optimization
-🗄️ SQL – Queries, joins, window functions, CTEs, and performance tuning
-💾 Databases – Database concepts, tables, schemas, and data modeling
-🔄 ETL – Building Extract, Transform, and Load pipelines using Databricks
-⚡ Data Engineering – Data processing, workflow development, and best practices
+- 🔥 **PySpark**
+  - DataFrames
+  - Transformations & Actions
+  - Spark SQL
+  - Performance Optimization
 
-📂 Repository Includes
+- 🗃️ **SQL**
+  - CRUD Operations
+  - Joins
+  - Aggregations
+  - Window Functions
+  - Common Table Expressions (CTEs)
 
-📓 Training notebooks
-📝 Personal notes and learning resources
-💻 Hands-on practice exercises
-📊 Sample datasets and examples
-🎯 Real-world Data Engineering scenarios
+- 💾 **Databases**
+  - Database Fundamentals
+  - Tables & Schemas
+  - Constraints
+  - Data Modeling Basics
 
-🎯 Goal
+- 🔄 **ETL**
+  - Extract, Transform & Load
+  - Data Cleaning
+  - Data Transformation
+  - ETL Pipeline Development
 
-To strengthen my Data Engineering skills through consistent practice and hands-on learning with Databricks, PySpark, SQL, Databases, and ETL concepts.
+- ⚡ **Data Engineering**
+  - Data Processing
+  - Workflow Development
+  - Best Practices
+  - End-to-End Data Pipelines
 
-«🌱 Learning every day, building one notebook at a time!»
+## 📂 Repository Structure
+
+📁 PySpark  
+📁 SQL  
+📁 Database  
+📁 ETL  
+📁 Assignments  
+📁 Notes  
+📁 Practice Projects
+
+## 🎯 Purpose
+
+This repository serves as my personal learning journal to:
+
+- 📖 Track my progress
+- 💻 Practice Databricks concepts
+- 🚀 Build strong Data Engineering skills
+- 🌟 Prepare for real-world projects and interviews
+
+## 🛠️ Tools & Technologies
+
+- ☁️ Databricks
+- 🔥 Apache Spark (PySpark)
+- 🗃️ SQL
+- 💾 Databases
+- 🐍 Python
+- 🔄 ETL Concepts
+
+## 🌱 Learning Never Stops
+
+> *"Small progress each day leads to big results."* 🚀
+
+⭐ If you're also learning Databricks or Data Engineering, feel free to explore this repository and learn along with me!
